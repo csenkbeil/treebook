@@ -3,3 +3,9 @@ cliff:
   last_name: "senkbeil"
   email: "cliff@testing.com"
   profile_name: "cliffsenkbeil"
+
+jason:
+  first_name: "jason"
+  last_name: "test"
+  email: "jason@testing.com"
+  profile_name: "jasontest"
